@@ -19,9 +19,14 @@ You must install the sequences.fasta and sequences.csv files rom the [NCBI offic
 
 We provide you a .zip file with 2 other fasta and csv files to try out without downloading anything so, have fun!
 
+```
+  python src/main/sarscovhierarchy.py <data_path>
+```
+### Docker Execution
+The data to be processed are decompressed during execution.
 
 ```
-python src/main/sarscovhierarchy.py <data_path>
+  docker push manudiv1/covid-19
 ```
 
 ### Full Code Documentation
