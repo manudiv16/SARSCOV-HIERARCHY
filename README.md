@@ -1,4 +1,4 @@
-# Welcome to Covid 19 challenge 👋
+# Welcome to Covid 19 Hierarchy 👋
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#-contributors-)
 <img src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 
