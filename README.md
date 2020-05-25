@@ -22,7 +22,7 @@ We provide you a .zip file with 2 other fasta and csv files to try out without d
 ```
   python src/main/sarscovhierarchy.py <data_path>
 ```
-### Docker Execution
+### 🐳 Docker Execution
 The data to be processed are decompressed during execution.
 
 ```
